@@ -1,18 +1,47 @@
-# Bug Reports
+# QA Portfolio - SauceDemo Automation
 
-Este diretório contém exemplos de relatórios de bugs documentados utilizando boas práticas de Quality Assurance.
+Projeto de automação de testes desenvolvido com Playwright + TypeScript utilizando boas práticas como Page Object Model (POM) e testes parametrizados.
+
+## Tecnologias
+
+- Playwright
+- TypeScript
+- Node.js
+
+## Cenários Automatizados
+
+- Login com múltiplos usuários
+- Login inválido
+- Fluxo completo de compra
+- Adição de produtos ao carrinho
+- Ordenação de produtos
+- Logout
 
 ## Estrutura
 
-Cada relatório contém:
+```
+test/
+ ├── pages/
+ │    └── SaucePage.ts
+ ├── user/
+ │    └── user.ts
+ └── teste.spec.ts
+```
 
-- Descrição do problema
-- Passos para reprodução
-- Resultado atual
-- Resultado esperado
-- Severidade
-- Evidências (quando aplicável)
+## Executando
 
-## Objetivo
+```bash
+npm install
+npx playwright install
+npx playwright test
+```
 
-Demonstrar habilidades em identificação, documentação e comunicação de defeitos em aplicações web.
+## Relatórios
+
+```bash
+npx playwright show-report
+```
+
+## Autor
+
+Davi Onofre
