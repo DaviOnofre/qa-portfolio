@@ -1,28 +1,59 @@
 # Davi Onofre - QA Portfolio
 
-Olá! Sou Analista de QA focado em testes manuais, validação de funcionalidades e garantia da qualidade de software.
+Bem-vindo ao meu portfólio de Quality Assurance (QA).
 
-## Habilidades
+Este repositório reúne projetos, estudos e documentações desenvolvidos durante minha evolução na área de QA, com foco em testes manuais, automação de testes e garantia da qualidade de software.
+
+---
+
+## 🚀 Habilidades
 
 - Testes Funcionais
 - Testes Exploratórios
 - Testes de Regressão
+- Testes Automatizados
 - Documentação de Bugs
-- Garantia da Qualidade
+- Elaboração de Casos de Teste
+- Garantia da Qualidade (QA)
 
-## Ferramentas
+---
 
+## 🛠️ Ferramentas
+
+- Playwright
+- TypeScript
 - GitHub
 - Notion
 - Postman (em aprendizado)
-- Playwright 
 
-## Estrutura do Projeto
+---
 
-- bug-reports
-- test-cases
-- evidences
+## 📁 Estrutura do Repositório
 
-## Objetivo
+```
+bug-reports/
+test-cases/
+evidences/
+```
 
-Este repositório reúne estudos, casos de teste, relatórios de bugs e evidências de testes realizados em aplicações web.
+Cada pasta reúne materiais relacionados às atividades de QA:
+
+- **bug-reports:** relatórios de bugs documentados.
+- **test-cases:** casos de teste elaborados para diferentes funcionalidades.
+- **evidences:** capturas de tela, vídeos e outras evidências de execução dos testes.
+
+---
+
+## 🎯 Objetivo
+
+Este portfólio tem como objetivo demonstrar minhas habilidades em Quality Assurance por meio da documentação de bugs, criação de casos de teste, evidências de execução e projetos de automação utilizando Playwright.
+
+Estou constantemente estudando e aprimorando minhas habilidades para atuar com qualidade de software, testes manuais e automação.
+
+---
+
+## 👨‍💻 Autor
+
+**Davi Onofre**
+
+Analista de QA | Testes Manuais | Testes Automatizados | Playwright | TypeScript
