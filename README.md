@@ -15,7 +15,7 @@ Olá! Sou Analista de QA focado em testes manuais, validação de funcionalidade
 - GitHub
 - Notion
 - Postman (em aprendizado)
-- Playwright (em aprendizado)
+- Playwright 
 
 ## Estrutura do Projeto
 
