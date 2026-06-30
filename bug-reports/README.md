@@ -21,24 +21,31 @@ Projeto de automação de testes desenvolvido com Playwright + TypeScript utiliz
 
 
 test/
- ├── pages/
- │    └── SaucePage.ts
- ├── user/
- │    └── user.ts
- └── teste.spec.ts
+
+pages/
+   SaucePage.ts
+   
+user/
+   user.ts
+   
+teste.spec.ts
 
 
 ## Executando
 
 *bash*
+
 npm install
+
 npx playwright install
+
 npx playwright test
 
 
 ## Relatórios
 
 *bash*
+
 npx playwright show-report
 
 
